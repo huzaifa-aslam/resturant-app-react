@@ -1,0 +1,29 @@
+{
+    "login": [{
+        "email": "ham@gmail.com",
+        "password": "123"
+    }],
+
+    "resturants": [{
+            "name": "hamdard",
+            "email": "hamdard@gmail.com",
+            "address": "karachi",
+            "rating": "2",
+            "id": 8
+        },
+        {
+            "name": "ham",
+            "email": "ham@gmail.com",
+            "address": "karachi",
+            "rating": "4",
+            "id": 9
+        },
+        {
+            "name": "peshawri",
+            "email": "peshawri@gmail.com",
+            "address": "karachi",
+            "rating": "3.5",
+            "id": 10
+        }
+    ]
+}
