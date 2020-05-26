@@ -1,29 +1,80 @@
 {
-    "login": [{
-        "email": "ham@gmail.com",
-        "password": "123"
-    }],
-
-    "resturants": [{
-            "name": "hamdard",
-            "email": "hamdard@gmail.com",
-            "address": "karachi",
-            "rating": "2",
-            "id": 8
-        },
-        {
-            "name": "ham",
-            "email": "ham@gmail.com",
-            "address": "karachi",
-            "rating": "4",
-            "id": 9
-        },
-        {
-            "name": "peshawri",
-            "email": "peshawri@gmail.com",
-            "address": "karachi",
-            "rating": "3.5",
-            "id": 10
-        }
-    ]
+  "signUp": [
+    {
+      "name": "huzaifa",
+      "email": "ham@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "huzaifa",
+      "email": "ham@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "huzaifa",
+      "email": "huzaifaslam45@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": null,
+      "id": 4
+    },
+    {
+      "name": "huzaifa",
+      "email": "huzaifaslam45@gmail.com",
+      "password": "232",
+      "id": 5
+    },
+    {
+      "name": "huzaifa",
+      "email": "huzaifaslam45@gmail.com",
+      "password": "232",
+      "id": 6
+    },
+    {
+      "name": "huzaifa",
+      "email": "m.aslamkhan43@yahoo.com",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "name": "huzaifa",
+      "email": "huzaifaslam4555@gmail.com",
+      "password": "24",
+      "id": 8
+    },
+    {
+      "name": "huzaifa",
+      "email": "huzaifaslam4545@gmail.com",
+      "password": "423",
+      "id": 9
+    },
+    {
+      "name": "huzaifa",
+      "email": "huzaifa@gmail.com",
+      "password": "123",
+      "id": 10
+    }
+  ],
+  "login": [
+    {
+      "name": "huzaifa",
+      "email": "ham@gmail.com",
+      "password": "123"
+    }
+  ],
+  "resturants": [
+    {
+      "name": "ham",
+      "email": "ham@gmail.com",
+      "address": "karachi",
+      "rating": "4",
+      "id": 9
+    }
+  ]
 }
